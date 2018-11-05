@@ -1,0 +1,131 @@
+2018-11-02 15:45:31 INFO  JavaCollectionSolutions:111 - [0, 3, 50, 100]
+2018-11-02 15:45:31 INFO  JavaCollectionSolutions:112 - [0, 7, 60, 700, 2000, 30000]
+2018-11-03 18:48:24 INFO  JavaCollectionSolutions:111 - [0, 3, 50, 100]
+2018-11-03 18:48:24 INFO  JavaCollectionSolutions:112 - [0, 7, 60, 700, 2000, 30000]
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 153
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 1
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 0
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 153
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 10
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 3
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 150
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 100
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 50
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 100
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 1000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 100
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:115 - [0, 3, 50, 100]
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 32767
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 1
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 0
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 32767
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 10
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 7
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 32760
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 100
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 60
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 32700
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 1000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 700
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 32000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 10000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 2000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:38 - n = 30000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:40 - tens = 100000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:41 - n mod tens = 30000
+2018-11-03 19:26:15 INFO  JavaCollectionSolutions:116 - [0, 7, 60, 700, 2000, 30000]
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:37 - n = 153
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:40 - n mod tens = 3
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:37 - n = 150
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:40 - n mod tens = 50
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:37 - n = 100
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:32:43 INFO  JavaCollectionSolutions:40 - n mod tens = 100
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 153
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 3
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 150
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 50
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 100
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 100
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:120 - [0, 0, 0]
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 32767
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 7
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 32760
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 60
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 32700
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 700
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 32000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 10000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 2000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:37 - n = 30000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:39 - tens = 100000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:40 - n mod tens = 30000
+2018-11-03 19:33:21 INFO  JavaCollectionSolutions:121 - [0, 0, 0, 0, 0]
+2018-11-03 19:34:16 INFO  JavaCollectionSolutions:37 - n = 153
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 3
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 150
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 50
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 100
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 100
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:120 - [3, 50, 100]
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 32767
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 7
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 32760
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 60
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 32700
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 700
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 32000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 10000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 2000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:37 - n = 30000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:39 - tens = 100000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:40 - n mod tens = 30000
+2018-11-03 19:34:17 INFO  JavaCollectionSolutions:121 - [7, 60, 700, 2000, 30000]
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 153
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 3
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 150
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 50
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 100
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 100
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:120 - [1, 5, 3]
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 32767
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 10
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 7
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 32760
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 100
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 60
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 32700
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 1000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 700
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 32000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 10000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 2000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:37 - n = 30000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:39 - tens = 100000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:40 - n mod tens = 30000
+2018-11-03 19:35:36 INFO  JavaCollectionSolutions:121 - [3, 2, 7, 6, 7]
+2018-11-05 14:55:51 INFO  JavaCollectionSolutions:180 - [1, 5, 3]
+2018-11-05 14:55:51 INFO  JavaCollectionSolutions:181 - [3, 2, 7, 6, 7]
+2018-11-05 14:55:51 INFO  JavaCollectionSolutions:183 - false
+2018-11-05 14:55:51 INFO  JavaCollectionSolutions:184 - false
+2018-11-05 14:57:04 INFO  JavaCollectionSolutions:180 - [1, 5, 3]
+2018-11-05 14:57:04 INFO  JavaCollectionSolutions:181 - [3, 2, 7, 6, 7]
+2018-11-05 14:57:04 INFO  JavaCollectionSolutions:183 - true
+2018-11-05 14:57:04 INFO  JavaCollectionSolutions:184 - false
